@@ -1,0 +1,85 @@
+Antecedent,Consequent,support,confidence,lift,leverage,conviction
+Pasta Penne,Marinara Sauce,0.1218,1.0,8.2136,0.1069,inf
+Marinara Sauce,Pasta Penne,0.1218,1.0,8.2136,0.1069,inf
+Marinara Sauce,Parmesan Cheese,0.1218,1.0,8.2136,0.1069,inf
+Parmesan Cheese,Marinara Sauce,0.1218,1.0,8.2136,0.1069,inf
+Marinara Sauce,"Parmesan Cheese, Pasta Penne",0.1218,1.0,8.2136,0.1069,inf
+Pasta Penne,"Marinara Sauce, Parmesan Cheese",0.1218,1.0,8.2136,0.1069,inf
+Parmesan Cheese,Pasta Penne,0.1218,1.0,8.2136,0.1069,inf
+Pasta Penne,Parmesan Cheese,0.1218,1.0,8.2136,0.1069,inf
+Parmesan Cheese,"Marinara Sauce, Pasta Penne",0.1218,1.0,8.2136,0.1069,inf
+"Marinara Sauce, Pasta Penne",Parmesan Cheese,0.1218,1.0,8.2136,0.1069,inf
+"Parmesan Cheese, Pasta Penne",Marinara Sauce,0.1218,1.0,8.2136,0.1069,inf
+"Marinara Sauce, Parmesan Cheese",Pasta Penne,0.1218,1.0,8.2136,0.1069,inf
+Conditioner,Body Wash,0.1226,1.0,8.1549,0.1076,inf
+Body Wash,Conditioner,0.1226,1.0,8.1549,0.1076,inf
+Body Wash,"Conditioner, Shampoo",0.1226,1.0,8.1549,0.1076,inf
+"Conditioner, Shampoo",Body Wash,0.1226,1.0,8.1549,0.1076,inf
+Conditioner,Shampoo,0.1226,1.0,8.1549,0.1076,inf
+Shampoo,Conditioner,0.1226,1.0,8.1549,0.1076,inf
+Body Wash,Shampoo,0.1226,1.0,8.1549,0.1076,inf
+Shampoo,Body Wash,0.1226,1.0,8.1549,0.1076,inf
+Shampoo,"Body Wash, Conditioner",0.1226,1.0,8.1549,0.1076,inf
+Conditioner,"Body Wash, Shampoo",0.1226,1.0,8.1549,0.1076,inf
+"Body Wash, Shampoo",Conditioner,0.1226,1.0,8.1549,0.1076,inf
+"Body Wash, Conditioner",Shampoo,0.1226,1.0,8.1549,0.1076,inf
+Oat Creamer,"Arabica Coffee, Raw Sugar",0.124,1.0,8.0645,0.1086,inf
+Raw Sugar,"Arabica Coffee, Oat Creamer",0.124,1.0,8.0645,0.1086,inf
+"Arabica Coffee, Oat Creamer",Raw Sugar,0.124,1.0,8.0645,0.1086,inf
+"Arabica Coffee, Raw Sugar",Oat Creamer,0.124,1.0,8.0645,0.1086,inf
+Oat Creamer,Raw Sugar,0.124,1.0,8.0645,0.1086,inf
+Raw Sugar,Oat Creamer,0.124,1.0,8.0645,0.1086,inf
+Wireless Mouse,USB-C Hub,0.128,1.0,7.8125,0.1116,inf
+USB-C Hub,Wireless Mouse,0.128,1.0,7.8125,0.1116,inf
+USB-C Hub,Laptop Sleeve,0.128,1.0,7.8125,0.1116,inf
+Laptop Sleeve,USB-C Hub,0.128,1.0,7.8125,0.1116,inf
+Wireless Mouse,"Laptop Sleeve, USB-C Hub",0.128,1.0,7.8125,0.1116,inf
+"Laptop Sleeve, USB-C Hub",Wireless Mouse,0.128,1.0,7.8125,0.1116,inf
+USB-C Hub,"Laptop Sleeve, Wireless Mouse",0.128,1.0,7.8125,0.1116,inf
+Laptop Sleeve,"USB-C Hub, Wireless Mouse",0.128,1.0,7.8125,0.1116,inf
+"Laptop Sleeve, Wireless Mouse",USB-C Hub,0.128,1.0,7.8125,0.1116,inf
+"USB-C Hub, Wireless Mouse",Laptop Sleeve,0.128,1.0,7.8125,0.1116,inf
+Wireless Mouse,Laptop Sleeve,0.128,1.0,7.8125,0.1116,inf
+Laptop Sleeve,Wireless Mouse,0.128,1.0,7.8125,0.1116,inf
+"Salsa Dip, Tortilla Chips",Guacamole,0.1288,1.0,7.767,0.1122,inf
+Guacamole,"Salsa Dip, Tortilla Chips",0.1288,1.0,7.767,0.1122,inf
+Tortilla Chips,Guacamole,0.1288,1.0,7.767,0.1122,inf
+Guacamole,Tortilla Chips,0.1288,1.0,7.767,0.1122,inf
+Tortilla Chips,Salsa Dip,0.1288,1.0,7.767,0.1122,inf
+Salsa Dip,Tortilla Chips,0.1288,1.0,7.767,0.1122,inf
+Guacamole,Salsa Dip,0.1288,1.0,7.767,0.1122,inf
+Salsa Dip,Guacamole,0.1288,1.0,7.767,0.1122,inf
+"Guacamole, Tortilla Chips",Salsa Dip,0.1288,1.0,7.767,0.1122,inf
+"Guacamole, Salsa Dip",Tortilla Chips,0.1288,1.0,7.767,0.1122,inf
+Tortilla Chips,"Guacamole, Salsa Dip",0.1288,1.0,7.767,0.1122,inf
+Salsa Dip,"Guacamole, Tortilla Chips",0.1288,1.0,7.767,0.1122,inf
+Organic Butter,"Artisan Bread, Whole Milk",0.1194,1.0,4.0282,0.0897,inf
+"Artisan Bread, Whole Milk",Organic Butter,0.1194,0.4809,4.0282,0.0897,1.6963
+Whole Milk,"Artisan Bread, Organic Butter",0.1194,0.4809,4.0282,0.0897,1.6963
+Artisan Bread,"Organic Butter, Whole Milk",0.1194,0.4809,4.0282,0.0897,1.6963
+Artisan Bread,Organic Butter,0.1194,0.4809,4.0282,0.0897,1.6963
+Organic Butter,Artisan Bread,0.1194,1.0,4.0282,0.0897,inf
+Whole Milk,Artisan Bread,0.2482,1.0,4.0282,0.1866,inf
+Artisan Bread,Whole Milk,0.2482,1.0,4.0282,0.1866,inf
+Artisan Bread,Strawberry Jam,0.1289,0.5191,4.0282,0.0969,1.8116
+Strawberry Jam,Artisan Bread,0.1289,1.0,4.0282,0.0969,inf
+"Organic Butter, Whole Milk",Artisan Bread,0.1194,1.0,4.0282,0.0897,inf
+"Artisan Bread, Organic Butter",Whole Milk,0.1194,1.0,4.0282,0.0897,inf
+Whole Milk,Organic Butter,0.1194,0.4809,4.0282,0.0897,1.6963
+Organic Butter,Whole Milk,0.1194,1.0,4.0282,0.0897,inf
+"Artisan Bread, Whole Milk",Strawberry Jam,0.1289,0.5191,4.0282,0.0969,1.8116
+Strawberry Jam,"Artisan Bread, Whole Milk",0.1289,1.0,4.0282,0.0969,inf
+"Strawberry Jam, Whole Milk",Artisan Bread,0.1289,1.0,4.0282,0.0969,inf
+"Artisan Bread, Strawberry Jam",Whole Milk,0.1289,1.0,4.0282,0.0969,inf
+Whole Milk,"Artisan Bread, Strawberry Jam",0.1289,0.5191,4.0282,0.0969,1.8116
+Artisan Bread,"Strawberry Jam, Whole Milk",0.1289,0.5191,4.0282,0.0969,1.8116
+Whole Milk,Strawberry Jam,0.1289,0.5191,4.0282,0.0969,1.8116
+Strawberry Jam,Whole Milk,0.1289,1.0,4.0282,0.0969,inf
+Arabica Coffee,Raw Sugar,0.124,0.4948,3.99,0.0929,1.7338
+Raw Sugar,Arabica Coffee,0.124,1.0,3.99,0.0929,inf
+Arabica Coffee,Oat Creamer,0.124,0.4948,3.99,0.0929,1.7338
+Oat Creamer,Arabica Coffee,0.124,1.0,3.99,0.0929,inf
+Arabica Coffee,Croissant,0.1266,0.5052,3.99,0.0949,1.7652
+Croissant,Arabica Coffee,0.1266,1.0,3.99,0.0949,inf
+Arabica Coffee,"Oat Creamer, Raw Sugar",0.124,0.4948,3.99,0.0929,1.7338
+"Oat Creamer, Raw Sugar",Arabica Coffee,0.124,1.0,3.99,0.0929,inf
